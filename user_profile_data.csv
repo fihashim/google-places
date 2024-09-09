@@ -1,0 +1,101 @@
+user_id,age,gender,preferred_cuisine,preferred_price_range
+1,48,M,['American'],3
+2,28,F,"['Persian', 'German', 'Korean']",4
+3,25,M,"['Greek', 'Chinese']",3
+4,40,M,"['German', 'Korean', 'Italian']",1
+5,59,F,['Persian'],3
+6,40,F,"['Korean', 'Greek']",1
+7,26,F,['Italian'],2
+8,46,F,['Persian'],4
+9,64,F,"['American', 'Persian']",2
+10,64,F,"['Persian', 'German']",2
+11,45,F,['Chinese'],2
+12,45,M,['Mexican'],3
+13,21,M,"['Korean', 'Mexican']",2
+14,47,M,"['Italian', 'Greek']",1
+15,58,M,"['German', 'Italian', 'Persian']",3
+16,43,M,"['Korean', 'Greek']",4
+17,23,M,"['Persian', 'Mexican']",2
+18,50,F,"['Chinese', 'Korean', 'Greek']",1
+19,53,M,"['Japanese', 'Mexican']",3
+20,21,F,"['Chinese', 'Japanese', 'Greek']",2
+21,43,F,"['Korean', 'Japanese']",1
+22,45,M,"['Italian', 'German', 'Japanese']",2
+23,35,M,['American'],
+24,45,M,"['American', 'Italian']",4
+25,35,F,"['Mexican', 'Persian']",3
+26,54,F,['Japanese'],1
+27,59,F,['Mexican'],
+28,34,M,"['American', 'Japanese', 'Chinese']",4
+29,60,F,"['Mexican', 'Italian']",4
+30,41,M,['Mexican'],3
+31,32,M,"['Korean', 'American']",2
+32,39,F,['Korean'],
+33,35,M,['American'],3
+34,57,M,"['Japanese', 'Korean', 'Italian']",3
+35,23,F,['German'],4
+36,36,M,"['Korean', 'Chinese']",1
+37,48,F,"['Greek', 'Korean', 'Japanese']",3
+38,49,M,"['Italian', 'American']",4
+39,42,F,['Greek'],2
+40,52,F,"['Greek', 'Korean', 'Italian']",
+41,34,F,['American'],3
+42,41,M,"['Mexican', 'Korean', 'Japanese']",4
+43,44,M,['Mexican'],2
+44,41,F,"['American', 'Korean']",1
+45,51,M,['Japanese'],3
+46,25,F,"['Chinese', 'Persian']",2
+47,40,M,"['Mexican', 'Greek', 'Chinese']",2
+48,47,M,['German'],
+49,21,F,['Korean'],3
+50,28,M,"['Japanese', 'Korean', 'American']",2
+51,62,M,['American'],1
+52,46,F,"['Mexican', 'Chinese', 'Persian']",1
+53,45,M,"['Chinese', 'Persian', 'Japanese']",3
+54,21,M,"['German', 'Mexican', 'Italian']",2
+55,51,M,"['Italian', 'Chinese']",2
+56,61,M,['American'],3
+57,43,M,"['German', 'Italian', 'Greek']",2
+58,47,F,['Chinese'],4
+59,53,M,"['Persian', 'Italian']",
+60,29,M,"['German', 'Chinese']",3
+61,39,M,['Japanese'],4
+62,59,F,"['American', 'Chinese', 'Persian']",1
+63,21,M,"['Persian', 'Japanese', 'Italian']",2
+64,31,M,"['Korean', 'Italian', 'Chinese']",4
+65,56,F,['Italian'],2
+66,60,M,"['Greek', 'American', 'Persian']",
+67,21,M,"['Italian', 'Japanese']",2
+68,62,M,"['American', 'Greek', 'Persian']",1
+69,22,M,"['Persian', 'American', 'Chinese']",4
+70,42,F,['Italian'],2
+71,63,F,"['Mexican', 'Greek', 'Chinese']",1
+72,61,M,"['Mexican', 'Chinese', 'Persian']",1
+73,30,M,"['Japanese', 'Korean']",1
+74,26,F,"['American', 'Italian']",2
+75,45,F,"['Korean', 'Chinese', 'Japanese']",2
+76,53,M,"['Persian', 'Mexican']",2
+77,61,F,"['Greek', 'Italian']",4
+78,53,F,"['Japanese', 'Italian', 'Chinese']",1
+79,60,F,"['Chinese', 'Japanese']",4
+80,40,M,['Greek'],
+81,25,M,"['Mexican', 'Persian']",
+82,45,F,"['Japanese', 'German', 'Persian']",3
+83,34,F,['Korean'],1
+84,29,F,['German'],1
+85,51,M,"['Mexican', 'Italian']",4
+86,43,M,['Chinese'],1
+87,42,F,['Korean'],3
+88,64,F,"['Mexican', 'Korean']",
+89,58,F,['Italian'],1
+90,28,F,"['German', 'Japanese', 'Italian']",1
+91,61,F,['Greek'],3
+92,23,M,"['Japanese', 'German', 'Mexican']",4
+93,40,M,['Persian'],3
+94,58,F,"['German', 'Persian']",4
+95,63,F,"['Persian', 'Japanese', 'Mexican']",
+96,40,F,"['German', 'Chinese', 'American']",
+97,46,F,"['Italian', 'Persian', 'Chinese']",1
+98,37,F,['Italian'],1
+99,47,F,"['Italian', 'Persian']",4
+100,43,M,"['Persian', 'German', 'Japanese']",
