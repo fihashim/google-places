@@ -1,5 +1,5 @@
-# This is a jupyter notebook which extracts 400 restaurants in Berlin and filters out hotels or lodgings in batches of 20. 
-# The data is then stored in a pandas dataframe and visualized on a map using folium.
+# This .py file contains the code to extract restaurant data from the Google Places API and save it to a CSV file.
+
 import requests
 import pandas as pd
 import random
