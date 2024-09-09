@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+google-cloud-sdk
+google-places.json
+secret_keys
+
 # C extensions
 *.so
 
