@@ -4,5 +4,5 @@ numpy
 notebook
 ipykernel 
 seaborn
-
+apify_client
 
